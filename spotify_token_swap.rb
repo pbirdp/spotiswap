@@ -5,6 +5,9 @@ require 'base64'
 require 'json'
 require 'encrypted_strings'
 
+
+# Added my login credentials
+
 # This is an example token swap service written
 # as a Ruby/Sinatra service. This is required by
 # the iOS SDK to authenticate a user.
